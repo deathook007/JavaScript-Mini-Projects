@@ -1,1 +1,1 @@
-# Vanilla-JavaScript-Projects-
+# Multiple Vanilla JavaScript Web Projects 
