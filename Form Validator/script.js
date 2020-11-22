@@ -61,9 +61,9 @@ function checkPasswordMatches(input1, input2) {
 // Event listener
 form.addEventListener('submit', function(e) {
     e.preventDefault();
+    checkRequiredField([username, email, password, password2]);
     checkEmail(email);
     checkLength(username, 3, 15);
     checkLength(password, 8, 20);
     checkPasswordMatches(password, password2);
-    checkRequiredField([username, email, password, password2]);
 });
