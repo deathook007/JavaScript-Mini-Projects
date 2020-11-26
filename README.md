@@ -1,6 +1,6 @@
 # My JavaScript Web Projects :)
 
-## Form Validator
+## 1. Form Validator
 - A simple form validator with simple, attractive and responsive UI
 
 ScreenShots Below👇👇👇
@@ -11,7 +11,7 @@ ScreenShots Below👇👇👇
 ![Screenshot-4](https://github.com/deathook007/Vanilla-JavaScript-Projects/blob/main/Form%20Validator/Simple%20Form%20Validator%20-%20Password%20Error.png)
 
 
-## Movie Booking
+## 2. Movie Booking
 - Simple, attractive and responsive UI
 - Populated UI using local storage 
 - Saving data at refresh using local storage data
