@@ -20,3 +20,13 @@ ScreenShots Below👇👇👇
 ![Screenshot-1](https://github.com/deathook007/Es6-JavaScript-Projects/blob/main/Movie%20Booking/Layout.png)
 ![Screenshot-2](https://github.com/deathook007/Es6-JavaScript-Projects/blob/main/Movie%20Booking/Booking.png)
 ![Screenshot-3](https://github.com/deathook007/Es6-JavaScript-Projects/blob/main/Movie%20Booking/Responsive.png)
+
+
+## 3. Custom Video Player
+- A Simple, light and responsive UI
+
+ScreenShots Below👇👇👇
+
+![Screenshot-1](https://github.com/deathook007/Es6-JavaScript-Projects/blob/main/Custom%20Video%20Player/images/Layout.png)
+![Screenshot-2](https://github.com/deathook007/Es6-JavaScript-Projects/blob/main/Custom%20Video%20Player/images/Video%20Player.png)
+![Screenshot-3](https://github.com/deathook007/Es6-JavaScript-Projects/blob/main/Custom%20Video%20Player/images/Responsive%20Nature.png)
