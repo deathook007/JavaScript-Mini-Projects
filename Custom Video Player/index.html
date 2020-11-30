@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Video Player - Custom</title>
+    <!-- Old font awesome website link -->
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/custom.css" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <h1>My Custom Video Player 🎞️</h1>
+    <video src="videos/Fishing.mp4" type="video/mp4" class="video" id="video" poster="images/VideoPlayer.png"></video>
+    <div class="player">
+        <div class="buttonContainer">
+            <button class="button" id="play">
+          <i class="fa fa-play fa-2x"></i>
+        </button>
+
+            <button class="button" id="stop">
+          <i class="fa fa-stop fa-2x"></i>
+        </button>
+        </div>
+        <input class="progress" type="range" id="progress" min="0" max="100" step="0.1" value="0" />
+        <span class="timestamp" id="timestamp">00:00</span>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
