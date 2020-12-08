@@ -11,7 +11,7 @@ ScreenShots Below👇👇
 
 
 ## 2. Movie Booking
-- Simple, attractive and responsive UI
+- A simple, attractive and responsive UI
 - Populated UI using local storage 
 - Saving data at refresh using local storage data
 
@@ -23,7 +23,7 @@ ScreenShots Below👇👇
 
 
 ## 3. Custom Video Player
-- A Simple, light and responsive UI
+- A simple, light and responsive UI
 
 ScreenShots Below👇👇
 
@@ -33,11 +33,22 @@ ScreenShots Below👇👇
 
 
 ## 4. Custom Music Player
-- A Simple, LIGHT and responsive UI
+- A simple, light and responsive UI
 - Attractive animations on response
 
 ScreenShots Below👇👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Music%20Player/images/Layout.png)
-![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Music%20Player/images/Play_Responsive.png)
+![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Music%20Player/images/Play_Responsive.png) 
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Music%20Player/images/play__Responsive.png)
+
+
+## 5. New Hungama game (2020)
+- A simple, light and responsive UI with loot of attraction
+- Fun to play puzzle game
+
+ScreenShots Below👇👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20Layout.png)
+![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20keyCode.png) 
+![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20responsive.png)
