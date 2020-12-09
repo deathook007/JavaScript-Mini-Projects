@@ -62,3 +62,14 @@ ScreenShots Below👇👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Kumbhaka/images/Kumbhaka%20-%20BreathIn.png)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Kumbhaka/images/Kumbhaka%20-%20BreathOut.png) 
+
+
+## 7. Christmas Countdown
+- A simple and very attractive UI
+- Christmas theme countdown
+- Pic it up and use anywhere u want 
+
+ScreenShots Below👇👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown.png)
+![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown%20-%20Responsive.png) 
