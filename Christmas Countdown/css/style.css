@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+}
+
+body * {
+    z-index: 1;
+}
+
+body {
+    background: url('../images/Christmas\ background.jpg') no-repeat center center/cover;
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    overflow: hidden;
+}
+
+body::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.year {
+    color: #fca3cc;
+    font-size: 120px;
+    position: absolute;
+    top: 520px;
+    text-shadow: -2px -2px 0 #ea2c62, 2px -2px 0 #ea2c62, -2px 2px 0 #ea2c62, 2px 2px 0 #ea2c62;
+    z-index: -1;
+}
+
+h1 {
+    font-size: 65px;
+    color: #a20a0a;
+    text-shadow: -1px -1px 0 #ffa36c, 1px -1px 0 #ffa36c, -1px 1px 0 #ffa36c, 1px 1px 0 #ffa36c;
+    margin-top: 150px;
+}
+
+.countdown {
+    display: flex;
+    font-size: 42px;
+}
+
+.time {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    color: #000;
+    text-shadow: -1px -1px 0 #ffa36c, 1px -1px 0 #ffa36c, -1px 1px 0 #ffa36c, 1px 1px 0 #ffa36c;
+}
+
+.time h2 {
+    margin: 0;
+    color: #f2e394;
+}
+
+@media (max-width: 500px) {
+    h1 {
+        font-size: 50px;
+        margin-top: 200px;
+    }
+    .time {
+        margin: 10px;
+    }
+    .time h2 {
+        margin: 0px;
+    }
+    .time small {
+        font-size: 30px;
+    }
+}
