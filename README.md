@@ -52,3 +52,13 @@ ScreenShots Below👇👇
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20Layout.png)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20keyCode.png) 
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20responsive.png)
+
+
+## 6. Kumbhaka
+- A simple and light UI
+- Less code with few animations
+
+ScreenShots Below👇👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Kumbhaka/images/Kumbhaka%20-%20BreathIn.png)
+![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Kumbhaka/images/Kumbhaka%20-%20BreathOut.png) 
