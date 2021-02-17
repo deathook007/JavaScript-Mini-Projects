@@ -1,4 +1,4 @@
-# JavaScript mini Projects :)
+# JavaScript mini Projects ☀️ 
 
 ## 1. Form Validator
 - A simple form validator with simple, attractive and responsive UI
