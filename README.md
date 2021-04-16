@@ -54,17 +54,7 @@ ScreenShots Below 👇
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20responsive.png)
 
 
-## 6. Kumbhaka
-- A simple and light UI
-- Less code with few animations
-
-ScreenShots Below 👇
-
-![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Kumbhaka/images/Kumbhaka%20-%20BreathIn.png)
-![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Kumbhaka/images/Kumbhaka%20-%20BreathOut.png) 
-
-
-## 7. Christmas Countdown
+## 6. Christmas Countdown
 - A simple and very attractive UI
 - Christmas theme countdown
 - Pic it up and use anywhere u want 
@@ -73,3 +63,15 @@ ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown.png)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown%20-%20Responsive.png) 
+
+
+## 7. Breakout Game 
+- Made in canvas
+- A simple and colourfull Desktop Only UI for childrens
+- Attractive and addictive 19's game - Breakout
+- Play, Pause and win !
+
+ScreenShots Below 👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021.gif)
+![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021%20-%20Rules.png) 
