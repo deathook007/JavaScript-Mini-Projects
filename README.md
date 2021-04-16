@@ -75,3 +75,4 @@ ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021.gif)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021%20-%20Rules.png) 
+![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021%20-%20Score%2C%20Pause%20and%20Play.png) 
