@@ -76,3 +76,18 @@ ScreenShots Below 👇
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021.gif)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021%20-%20Rules.png) 
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021%20-%20Score%2C%20Pause%20and%20Play.png) 
+
+
+## 8. Lyrics Finder 
+- Find all lyrics of a song in a single place
+- Simple and attractive UI 
+- Responsive
+- API used : https://api.lyrics.ovh
+- Limit of songs per page : 15 without proxy and unlimited with cors-anywhere (https://github.com/Rob--W/cors-anywhere)
+- Made with ES8
+
+ScreenShots Below 👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder%20-%20Home.png)
+![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder.jpg) 
+![Screenshot-3](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder%20-%20Lyrics.png) 
