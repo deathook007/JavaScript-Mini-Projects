@@ -1,5 +1,7 @@
 # JavaScript mini Projects ☀️ 
 
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Welcome%20Back.jpg)
+
 ## 1. Breakout Game (2021)
 - Made in canvas API
 - A simple and colourfull UI
