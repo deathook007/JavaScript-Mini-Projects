@@ -110,5 +110,5 @@ ScreenShots Below 👇
 ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Toggle%20Theme.gif)
-![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/collage.jpg) 
+![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Mode%20Collage.jpg) 
 
