@@ -112,3 +112,13 @@ ScreenShots Below 👇
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Toggle%20Theme.gif)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Mode%20Collage.jpg) 
 
+
+## 11. Simple Map
+- Simple map integration using mapbox.
+- Direction and navigation API used.
+- Create account at https://www.mapbox.com/ for access token.
+- Documantation used : https://docs.mapbox.com/mapbox-gl-js/ 
+
+ScreenShots Below 👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Simple%20Map/Map.png)
