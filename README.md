@@ -102,3 +102,13 @@ ScreenShots Below 👇
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder%20-%20Lyrics.png) 
 
 
+## 10. Toggle Theme
+- Black and White theme.
+- Simple and attractive motion UI
+- Best code practice used
+
+ScreenShots Below 👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Toggle%20Theme.gif)
+![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/collage.jpg) 
+
