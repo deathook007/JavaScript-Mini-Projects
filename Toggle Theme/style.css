@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=KoHo:wght@700&family=Roboto&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "KoHo", sans-serif;
+}
+
+body {
+  --accent-color: #fc5404;
+  --bg-color: linear-gradient(#f5e6ca, #fff8d9);
+  --text-color: #f54748;
+  --btn-text-color: white;
+  background-image: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  min-width: 100vw;
+  overflow: hidden;
+  transition: all 1.5s;
+}
+
+body.dark {
+  --accent-color: #ffd700;
+  --bg-color: linear-gradient(#222831, #393e46);
+  --text-color: #00adb5;
+  --btn-text-color: #010101;
+  transition: all 1.5s;
+}
+
+.heading {
+  font-size: 40px;
+  font-weight: 800;
+  margin-bottom: 80px;
+  -webkit-text-stroke: 1px var(--btn-text-color);
+  text-stroke: 4px var(--btn-text-color);
+}
+
+.btn {
+  font-size: 18px;
+  background-color: var(--accent-color);
+  color: var(--btn-text-color);
+  padding: 10px;
+  border-radius: 15px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 1px 5px 5px #4e4d4d;
+  transform: scale(1);
+  transition: transform 0.3s;
+}
+
+.btn:hover,
+.btn:focus {
+  transform: scale(1.1);
+}
+
+.btn:active {
+  transform: scale(1);
+}
+
+.mix {
+  margin-right: 10px;
+  fill: var(--btn-text-color);
+}
+
+.container {
+  --rotation: 0;
+  position: absolute;
+  top: 0;
+  height: 200vmin;
+  pointer-events: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(calc(var(--rotation) * 1deg));
+  -webkit-transform: rotate(calc(var(--rotation) * 1deg));
+  -moz-transform: rotate(calc(var(--rotation) * 1deg));
+  -ms-transform: rotate(calc(var(--rotation) * 1deg));
+  -o-transform: rotate(calc(var(--rotation) * 1deg));
+  transition: transform 1s;
+  -webkit-transition: transform 1s;
+  -moz-transition: transform 1s;
+  -ms-transition: transform 1s;
+  -o-transition: transform 1s;
+}
+
+.sun,
+.moon {
+  position: absolute;
+  transition: opacity, fill, 1s;
+  fill: var(--accent-color);
+}
+.sun {
+  top: 5%;
+  opacity: 1;
+}
+.dark .sun {
+  opacity: 0;
+}
+.moon {
+  bottom: 5%;
+  opacity: 0;
+  transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+}
+.dark .moon {
+  opacity: 1;
+}
