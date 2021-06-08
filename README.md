@@ -1,4 +1,4 @@
-# JavaScript mini Projects ☀️ 
+# Mini JavaScript Projects ☀️ 
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Welcome%20Back.jpg)
 
