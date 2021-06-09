@@ -1,4 +1,5 @@
-![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Welcome%20Back.jpg)
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/JavaScript%20Mini%20Projects.jpg)
+# JavaScript Mini Projects ☀️ 
 
 ## 1. Breakout Game (2021)
 - Made in canvas API
