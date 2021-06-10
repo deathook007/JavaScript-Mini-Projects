@@ -1,0 +1,192 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  --bg-color: #091921;
+  --shadow1: rgba(255, 255, 255, 0.05);
+  --shadow2: rgba(0, 0, 0, 0.5);
+  --clock-bg-color: #eeeeee;
+  --hr-hand-color: #00adb5;
+  --min-hand-color: #eeeeee;
+  --sec-hand-color: #00adb5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+}
+
+body.light {
+  --bg-color: #e1f4f3;
+  --shadow1: rgba(255, 255, 255, 0.05);
+  --shadow2: rgba(0, 0, 0, 0.2);
+  --clock-bg-color: #706c61;
+  --hr-hand-color: #393e46;
+  --min-hand-color: #706c61;
+  --sec-hand-color: #393e46;
+}
+
+body.halloween {
+  --bg-color: #321f28;
+  --shadow1: rgba(255, 255, 255, 0.05);
+  --shadow2: rgba(0, 0, 0, 0.2);
+  --clock-bg-color: #e79e4f;
+  --hr-hand-color: #734046;
+  --min-hand-color: #e79e4f;
+  --sec-hand-color: #734046;
+}
+
+body.christmas {
+  --bg-color: #a20a0a;
+  --shadow1: rgba(255, 255, 255, 0.05);
+  --shadow2: rgba(0, 0, 0, 0.2);
+  --clock-bg-color: #ffa36c;
+  --hr-hand-color: #f6eec9;
+  --min-hand-color: #ffa36c;
+  --sec-hand-color: #f6eec9;
+}
+
+body.winter {
+  --bg-color: #293b5f;
+  --shadow1: rgba(255, 255, 255, 0.05);
+  --shadow2: rgba(0, 0, 0, 0.2);
+  --clock-bg-color: #1687a7;
+  --hr-hand-color: #d3e0ea;
+  --min-hand-color: #1687a7;
+  --sec-hand-color: #d3e0ea;
+}
+
+body.summer {
+  --bg-color: #e23c09;
+  --shadow1: rgba(255, 255, 255, 0.05);
+  --shadow2: rgba(0, 0, 0, 0.2);
+  --clock-bg-color: #b6eb7a;
+  --hr-hand-color: #f7f7ee;
+  --min-hand-color: #b6eb7a;
+  --sec-hand-color: #f7f7ee;
+}
+
+.clock {
+  width: 350px;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(./clock.png);
+  background-size: cover;
+  border: 3px solid var(--bg-color);
+  border-radius: 50%;
+  box-shadow: 0 -15px 15px var(--shadow1), inset 0 -15px 15px var(--shadow1),
+    0 15px 15px var(--shadow2), inset 0 15px 15px var(--shadow2);
+}
+
+.clock:before {
+  content: "";
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background: var(--clock-bg-color);
+  border-radius: 50%;
+  z-index: 10;
+}
+
+.hour,
+.minute,
+.second {
+  position: absolute;
+}
+
+.hour,
+.hr {
+  width: 160px;
+  height: 160px;
+}
+
+.minute,
+.min {
+  width: 190px;
+  height: 190px;
+}
+
+.second,
+.sec {
+  width: 230px;
+  height: 230px;
+}
+
+.hr,
+.min,
+.sec {
+  display: flex;
+  justify-content: center;
+  position: center;
+  border-radius: 50%;
+}
+
+.hr:before {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 80px;
+  background: var(--hr-hand-color);
+  z-index: 5;
+  border-radius: 6px 6px 0 0;
+}
+
+.min:before {
+  content: "";
+  position: absolute;
+  width: 4px;
+  height: 90px;
+  background: var(--min-hand-color);
+  z-index: 6;
+  border-radius: 6px 6px 0 0;
+}
+
+.sec:before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 150px;
+  background: var(--sec-hand-color);
+  z-index: 8;
+  border-radius: 6px 6px 0 0;
+}
+
+.btn-container {
+  margin-top: 100px;
+  height: 40px;
+  width: 140px;
+}
+
+.btn {
+  width: 100%;
+  height: 100%;
+  font-size: 18px;
+  font-family: "Pacifico", cursive;
+  letter-spacing: 1.3px;
+  border-radius: 15px;
+  outline: none;
+  border: none;
+  box-shadow: 1px 1px 4px #000;
+  color: var(--bg-color);
+  background-color: var(--min-hand-color);
+  transition: transform 0.3s;
+}
+
+.btn:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  box-shadow: 2px 2px 6px #000;
+}
+
+.btn:active {
+  cursor: pointer;
+  transform: scale(1);
+  box-shadow: 1px 1px 8px #000;
+}
