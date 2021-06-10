@@ -57,7 +57,19 @@ ScreenShots Below 👇
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Video%20Player/images/Responsive%20Nature.png)
 
 
-## 6. Christmas Countdown
+## 6. Analog Clock
+- Analog clock with accurate time ratio.
+- A simple, light and responsive UI
+- Muliple themes implimented : Light, Dark, Halloween, Christmas, Summer and Winter
+- New UI :)
+
+ScreenShots Below 👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Analog%20Clock/images/Analog%20clock.gif)
+![Screenshot-3](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Analog%20Clock/images/Clock%20collage.jpg)
+
+
+## 7. Christmas Countdown
 - A simple and very attractive UI
 - Christmas theme countdown.
 - Pic it up and use anywhere u want :) 
@@ -68,7 +80,7 @@ ScreenShots Below 👇
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown%20-%20Responsive.png)  
 
 
-## 7. Form Validator
+## 8. Form Validator
 - Validation covered : All fields with extra password length validation.
 - Simple, attractive and responsive UI
 
@@ -78,7 +90,7 @@ ScreenShots Below 👇
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Form%20Validator/Simple%20Form%20Validator%20-%20Password%20Error.png)
 
 
-## 8. Movie Booking
+## 9. Movie Booking
 - A simple, attractive and responsive UI
 - Populated UI using local storage.
 - Saving data on refresh screen.
@@ -89,7 +101,7 @@ ScreenShots Below 👇
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/Movie%20Booking/Responsive.png)
 
 
-## 9. Lyrics Finder 
+## 10. Lyrics Finder 
 - Find all lyrics of a song in a single place.
 - Simple attractive and responsive UI
 - API used : https://api.lyrics.ovh
@@ -103,7 +115,7 @@ ScreenShots Below 👇
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder%20-%20Lyrics.png) 
 
 
-## 10. Toggle Theme
+## 11. Toggle Theme
 - Black and White theme.
 - Simple and attractive motion UI
 - Best code practice used
@@ -114,7 +126,7 @@ ScreenShots Below 👇
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Mode%20Collage.jpg) 
 
 
-## 11. Simple Map
+## 12. Simple Map
 - Simple map integration using mapbox.
 - Direction and navigation API used.
 - Create account at https://www.mapbox.com/ for access token.
