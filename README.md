@@ -69,7 +69,18 @@ ScreenShots Below 👇
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Analog%20Clock/images/Clock%20collage.jpg)
 
 
-## 7. Christmas Countdown
+## 7. Toggle Theme
+- Black and White theme.
+- Simple and attractive motion UI
+- Best code practice used
+
+ScreenShots Below 👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Toggle%20Theme.gif)
+![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Mode%20Collage.jpg)
+
+
+## 8. Christmas Countdown
 - A simple and very attractive UI
 - Christmas theme countdown.
 - Pic it up and use anywhere u want :) 
@@ -80,7 +91,7 @@ ScreenShots Below 👇
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown%20-%20Responsive.png)  
 
 
-## 8. Form Validator
+## 9. Form Validator
 - Validation covered : All fields with extra password length validation.
 - Simple, attractive and responsive UI
 
@@ -90,7 +101,7 @@ ScreenShots Below 👇
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Form%20Validator/Simple%20Form%20Validator%20-%20Password%20Error.png)
 
 
-## 9. Movie Booking
+## 10. Movie Booking
 - A simple, attractive and responsive UI
 - Populated UI using local storage.
 - Saving data on refresh screen.
@@ -101,7 +112,7 @@ ScreenShots Below 👇
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/Movie%20Booking/Responsive.png)
 
 
-## 10. Lyrics Finder 
+## 11. Lyrics Finder 
 - Find all lyrics of a song in a single place.
 - Simple attractive and responsive UI
 - API used : https://api.lyrics.ovh
@@ -113,17 +124,6 @@ ScreenShots Below 👇
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder%20-%20Home.png)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder.jpg) 
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder%20-%20Lyrics.png) 
-
-
-## 11. Toggle Theme
-- Black and White theme.
-- Simple and attractive motion UI
-- Best code practice used
-
-ScreenShots Below 👇
-
-![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Toggle%20Theme.gif)
-![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Mode%20Collage.jpg) 
 
 
 ## 12. Simple Map
