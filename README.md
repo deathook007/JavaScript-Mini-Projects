@@ -88,7 +88,6 @@ ScreenShots Below 👇
 ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown.png)
-![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown%20-%20Responsive.png)  
 
 
 ## 9. Form Validator
