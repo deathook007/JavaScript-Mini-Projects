@@ -134,3 +134,14 @@ ScreenShots Below 👇
 ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Simple%20Map/Map.png)
+
+
+## 13. Simple Text To Speech Converter
+- Simple Tex To Speech Converter using speechSynthesis.
+- Features like play, pause and stop are added.
+- Resume from where you paused.
+- Simple, light and responsive UI
+
+ScreenShots Below 👇
+
+![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Simple%20Tex%20To%20Speech%20Converter/Screen-Shot.png)
