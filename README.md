@@ -7,7 +7,7 @@
 - Attractive and addictive 19's game - Breakout
 - Play, Pause and win!
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021.gif)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Breakout%202021/ScreenShots/Breakout%202021%20-%20Rules.png) 
@@ -19,7 +19,7 @@ ScreenShots Below 👇
 - A simple, light and responsive UI
 - Fun to play puzzle game.
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20Layout.png)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/New%20Hangman%20game%20(2020)/images/New%20Hangman%20Game%20-%20keyCode.png) 
@@ -30,7 +30,7 @@ ScreenShots Below 👇
 - A simple, light and responsive UI
 - See the rules and try your luck!
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/PIG%20Dice%20Game/images/Dice%20Game.png) 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/PIG%20Dice%20Game/images/Dice%20Game__Rules.png)
@@ -43,7 +43,7 @@ ScreenShots Below 👇
 - Limit of songs per page : 15 without proxy and unlimited with cors-anywhere (https://github.com/Rob--W/cors-anywhere)
 - Made with ES8
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder%20-%20Home.png)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Lyrics%20Finder/images/Lyrics%20Finder.jpg) 
@@ -55,7 +55,7 @@ ScreenShots Below 👇
 - A simple, light and responsive UI
 - Attractive animations on response.
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Music%20Player/images/Layout.png)
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Music%20Player/images/play__Responsive.png)
@@ -65,7 +65,7 @@ ScreenShots Below 👇
 - Customisable video player.
 - A simple, light and responsive UI
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Video%20Player/images/Layout.png)
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/Custom%20Video%20Player/images/Responsive%20Nature.png)
@@ -77,7 +77,7 @@ ScreenShots Below 👇
 - Muliple themes implimented : Light, Dark, Halloween, Christmas, Summer and Winter
 - New UI :)
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Analog%20Clock/images/Analog%20clock.gif)
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Analog%20Clock/images/Clock%20collage.jpg)
@@ -88,7 +88,7 @@ ScreenShots Below 👇
 - Simple and attractive motion UI
 - Best code practice used
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Toggle%20Theme.gif)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Toggle%20Theme/Images/Mode%20Collage.jpg)
@@ -100,7 +100,7 @@ ScreenShots Below 👇
 - Resume from where you paused.
 - Simple, light and responsive UI
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Simple%20Tex%20To%20Speech%20Converter/Screen-Shot.png)
 
@@ -110,7 +110,7 @@ ScreenShots Below 👇
 - Christmas theme countdown.
 - Pic it up and use anywhere u want :) 
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Christmas%20Countdown/images/Christmas%20Countdown.png)
 
@@ -119,7 +119,7 @@ ScreenShots Below 👇
 - Validation covered : All fields with extra password length validation.
 - Simple, attractive and responsive UI
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Projects/blob/main/Form%20Validator/Simple%20Form%20Validator%20Layout.png)
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Form%20Validator/Simple%20Form%20Validator%20-%20Password%20Error.png)
@@ -130,7 +130,7 @@ ScreenShots Below 👇
 - Populated UI using local storage.
 - Saving data on refresh screen.
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-2](https://github.com/deathook007/JavaScript-Projects/blob/main/Movie%20Booking/Booking.png)
 ![Screenshot-3](https://github.com/deathook007/JavaScript-Projects/blob/main/Movie%20Booking/Responsive.png)
@@ -142,6 +142,6 @@ ScreenShots Below 👇
 - Create account at https://www.mapbox.com/ for access token.
 - Documantation used : https://docs.mapbox.com/mapbox-gl-js/ 
 
-ScreenShots Below 👇
+### ScreenShots Below 👇
 
 ![Screenshot-1](https://github.com/deathook007/JavaScript-Mini-Projects/blob/main/Simple%20Map/Map.png)
